@@ -1,0 +1,49 @@
+1.	Basic			 	20d
+a.	Core JAVA            	12d
+b.	HTML			 1d
+c.	CSS			 2d
+d.	JS			 2d
+e.	MYSQL			 3d
+
+2.	Version Control and Server		1d
+a.	GIT			1/3d
+b.	GITHUB			1/3d
+c.	Tomcat			1/3d
+
+3.	Frontend				6d
+a.	CSS Framework
+i.	Bootstrap	3d
+ii.	Tailwind	3d
+b.	JS Framework
+i.	React		3d
+ii.	Angular	3d
+
+4.	Basic Of Advance Java		7d
+a.	Architecture		1d
+b.	Servlet			2d
+c.	JDBC			1d
+d.	JSP			2d
+e.	JSTL			1d
+5.	Collection Framework		1d
+a.	ArrayList		1/2d
+b.	LinkedList		1/2d
+
+6.	Backend				8d
+a.	Spring			6d	
+b.	Springboot			2d
+
+
+7.	 Database				4d
+a.	Hibernate			2d
+b.	JPA			2d
+
+
+
+8.	Project		15d
+a.	Frontend (HTML, CSS, Bootstrap, React)
+b.	Backend (Spring boot)
+c.	Database (MYSQL, Hibernate)
+d.	How to run project on server (Tomcat)
+e.	How to upload project ( GIT,GITHUB)
+f.	Using Payment gate way
+
